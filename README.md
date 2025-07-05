@@ -3,8 +3,7 @@
 A collection of essential combinational logic circuits implemented in Verilog HDL.  
 This repository serves as a foundational reference for anyone learning or revising Verilog combinational logic design. Each module includes:
 
-- ✅ Verilog source code  
-- 📂 Organized folder structure  
+- ✅ Verilog source code    
 - 🖼️ Simulation outputs/waveforms  
 - 🧪 Testbenches for verification
 
